@@ -3,17 +3,18 @@ html{
     padding: 4px;
 }
 .container-image{
-    width: 100%;
+    width: 100%;;
 
 }
 
 .image{
-    width: 100%;
+    width: 80%;
 }
 
 .container{
     display: flex;
     flex-direction: column;
+    
 
 }
 h2{
