@@ -1,4 +1,4 @@
-# Make It Real - NAME OF THE PROJECT
+# SITE 404 ERROR
 
 This is a solution to the 404 Error project of the Make It Real course.
 
